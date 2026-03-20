@@ -120,4 +120,4 @@ Diese Datei wird laufend erweitert mit weiteren Clean Code Prinzipien:
 
 ---
 
-*Dieses Projekt zeigt praktische Clean Code Konzepte mit echten Beispielen aus dem Java-Arbeitsalltag.*
+*Dieses Projekt zeigt praktische Clean Code Konzepte mit echten Beispielen.*
