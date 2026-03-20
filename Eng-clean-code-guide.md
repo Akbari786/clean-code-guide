@@ -120,4 +120,4 @@ This document will grow daily with more Clean Code principles:
 
 ---
 
-*A practical guide to Clean Code with real-world examples from professional Java development.*
+*A practical guide to Clean Code with real-world examples.
